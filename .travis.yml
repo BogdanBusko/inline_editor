@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   — 2.5.3
-before_install: gem install bundler -v 2.1.2
+before_install: gem install bundler -v 2.1.4
 addons:
   chrome: stable
 cache: bundler
